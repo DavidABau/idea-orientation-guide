@@ -1,6 +1,6 @@
 # idea-orientation-# Idea Orientation Guide
 
-*A practical, human‑friendly guide for understanding different kinds of ideas, how they behave, and how to stay grounded while thinking together.*
+*A practical,friendly guide for understanding different kinds of ideas, how they behave, and how to stay grounded while thinking together.*
 
 ---
 
