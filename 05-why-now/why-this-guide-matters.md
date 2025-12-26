@@ -140,5 +140,3 @@ It aims to:
 Because thinking should expand life — not hollow it out.
 
 ---
-
-Next: **03 — Working Safely With Ideas** — the practical grounding tools section.
