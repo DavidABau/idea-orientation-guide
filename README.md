@@ -1,4 +1,4 @@
-# idea-orientation-# Idea Orientation Guide
+# Idea Orientation Guide
 
 *A practical, friendly guide for understanding different kinds of ideas, how they behave, and how to stay grounded while thinking together.*
 
