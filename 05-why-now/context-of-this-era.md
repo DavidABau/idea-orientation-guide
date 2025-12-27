@@ -150,5 +150,3 @@ This guide exists because **living with ideas now requires care, grounding, and 
 Orientation is how we remain human in an age where thought itself has become a powerful environment.
 
 ---
-
-Next (optional companion page for this section, if desired): **why-orientation-is-a-form-of-care.md**
