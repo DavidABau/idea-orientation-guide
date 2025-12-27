@@ -136,4 +136,3 @@ Section 03 now has:
 * risk assessment
 * lived examples
 
-From here, we’ll refine **04 — Tools** when ready.
