@@ -127,5 +127,4 @@ From that steadier centre, you can choose whether to continue engaging, take dis
 
 ---
 
-Next file (optional for this section depending how far you want to build):
-**risk-assessment-checklist.md** or **short-guides-and-examples.md**
+Next file: **risk-assessment-checklist.md** or **short-guides-and-examples.md**
