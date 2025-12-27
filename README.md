@@ -143,5 +143,5 @@ This project exists to support healthier thinking, safer conversations, and grou
 
 ---
 
-Ready to begin? Start with **Part I — Foundations**.
+Ready to begin? Start with [**Part I — Foundations**](https://github.com/DavidABau/idea-orientation-guide/tree/main/01-foundations)
 guide
