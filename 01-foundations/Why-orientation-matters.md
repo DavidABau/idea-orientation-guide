@@ -85,5 +85,3 @@ This guide does not prevent confusion, doubt, awe, curiosity, or deep thinking �
 Orientation matters because thinking should expand life, not hollow it out.
 
 ---
-
-Next planned file: **common‑failure‑modes.md**
