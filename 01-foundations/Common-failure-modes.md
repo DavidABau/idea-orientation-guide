@@ -105,5 +105,3 @@ Large-scale logic (political theory, metaphysics, abstract reasoning) doesn’t 
 When people can name what’s happening, they regain choice. Awareness restores freedom — and that is the foundation of healthy orientation.
 
 ---
-
-Next planned file: **grounding-principles.md**
