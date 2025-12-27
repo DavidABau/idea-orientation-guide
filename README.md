@@ -133,7 +133,8 @@ This project is being developed carefully to avoid harm, ideological capture, or
 
 ## License
 
-To be determined — the license will intentionally protect against manipulative appropriation while allowing helpful public use.
+For the full legal text, see:
+https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
 
 ---
 
