@@ -79,6 +79,3 @@ If you use this guide well, you won’t end up with more certainty. You’ll end
 And that’s the point.
 
 ---
-
-Foundations complete.
-Next major section: **02—The Landscape of Ideas**.
