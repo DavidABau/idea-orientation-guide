@@ -82,6 +82,3 @@ No matter how advanced, cosmic, technical, mystical, or philosophical an idea be
 Ideas exist to serve life — not replace it.
 
 ---
-
-Next planned file:
-**how-to-use-this-guide.md**
