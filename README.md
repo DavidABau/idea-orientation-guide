@@ -153,3 +153,12 @@ This project exists to support healthier thinking, safer conversations, and grou
 ---
 
 Ready to begin? Start with [**Part I — Foundations**](https://github.com/DavidABau/idea-orientation-guide/tree/main/01-foundations)
+
+---
+
+Relationship to Cognitive Field Architecture (CFA)
+
+The Idea Orientation Guide (IOG) provides practical tools for relating to ideas, beliefs, models, and information in grounded and healthy ways.
+It complements the Cognitive Field Architecture, which explains how cognition shifts, stabilises, overloads, or fragments across perceptual, emotional, and rational planes. Together, they support clearer thinking, healthier meaning-making, and grounded engagement with complexity.
+
+[Go here for CFA](https://davidabau.github.io/Cognitive-Field-Architecture/)
