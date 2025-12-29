@@ -1,3 +1,7 @@
+For a broader understanding of how this work fits into the wider framework of related projects, see the Orientation to the Corpus [(link)](https://davidabau.github.io/Human-AI-Coherence-Corpus/)
+
+---
+
 # Idea Orientation Guide
 
 *A practical, friendly guide for understanding different kinds of ideas, how they behave, and how to stay grounded while thinking together.*
