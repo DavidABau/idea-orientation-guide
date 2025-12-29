@@ -21,6 +21,14 @@ This is **navigation**, not doctrine.
 
 ---
 
+## Current Status and Intent
+
+This project does not present itself as a rigorously validated psychological model. It is a conceptual architecture — a hypothesis about how cognition may be organised — intended to inspire inquiry and provide a structured lens for thinking about emotional, rational, and perceptual regulation. Its claims should be treated as theoretically interesting rather than empirically confirmed.
+
+This model is offered as a thoughtful theoretical framework rather than a finished scientific claim. It represents an attempt to describe cognition in a structured way that could be explored, tested, challenged, refined, or even partially disproven in the future. Like much of the surrounding work, it exists in the space between lived experience, conceptual clarity, and potential research — not in the space of completed academic proof.
+
+---
+
 ## What This Guide Helps You Do
 
 After using this guide, you should be able to say:
